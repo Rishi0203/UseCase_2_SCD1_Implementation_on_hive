@@ -1,0 +1,1 @@
+# UseCase_2_SCD1_Implementation_on_hive
